@@ -1,6 +1,6 @@
 # Sql Performance Analysis - order system
 
-Projekt przedstawia analizę i optymalizacjęzapytań SQL w PosgreSQL.
+Projekt przedstawia analizę i optymalizację zapytań SQL w PosgreSQL.
 
 ## Zakres:
 - analiza wolnych zapytań
