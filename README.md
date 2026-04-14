@@ -10,3 +10,6 @@ Projekt przedstawia analizę i optymalizację zapytań SQL w PosgreSQL.
 ## Technologie:
   - PostgreSQL
   - SQL
+
+## Dodanie indeksow:
+Po dodaniu indeksów czas wykonania zapytania uległ znaczącej poprawie.
